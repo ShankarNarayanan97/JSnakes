@@ -8,6 +8,6 @@ When was the last time you played a classic snake game? </h2>
 <h2>This fun game takes you back to the time when games were simple, yet addictive. So, if you are a fan of retro games or just in search of a simple game to keep the clock ticking,you are in the right place!
 </h2>
 <h1>Are you Ready? Let's go for it! </h1>
-<h3>1. Clone this repository</h3>
+<h3>1. Clone/Download this repository</h3>
 <h3>2. Open index.html </h3>
 <h3>3. Enjoy </h3>
