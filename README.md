@@ -8,7 +8,8 @@
 
 
 <h3>How long can you last before your tail becomes your dinner? </h3>
-<h1>Are you ready for it? Click <a href="https://elastic-lewin-7663c3.netlify.app/">here</a> to start playing </h1>
+<h1>Are you ready for it?</h1>
+ <h1> Click <a href="https://elastic-lewin-7663c3.netlify.app/">here</a> to start playing </h1>
 
 <h3> Or if you want to try it in your server here are the steps </h3>
 
